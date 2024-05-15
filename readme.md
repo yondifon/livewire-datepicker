@@ -12,8 +12,8 @@ This is not yet a stable release.
 
 Via Composer
 
-``` bash
-$ composer require haringsrob/livewire-datepicker
+```bash
+composer require haringsrob/livewire-datepicker
 ```
 
 ## Usage
